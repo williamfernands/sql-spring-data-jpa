@@ -1,4 +1,4 @@
-package com.example.sqlspringdatajpa.domain.model;
+package com.example.sqlspringdatajpa.domain.exception.model;
 
 import lombok.Data;
 

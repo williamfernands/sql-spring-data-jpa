@@ -1,6 +1,6 @@
-package com.example.sqlspringdatajpa.repository;
+package com.example.sqlspringdatajpa.domain.exception.repository;
 
-import com.example.sqlspringdatajpa.domain.model.Estado;
+import com.example.sqlspringdatajpa.domain.exception.model.Estado;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

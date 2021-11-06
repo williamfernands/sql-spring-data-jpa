@@ -41,6 +41,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>cn.danielw</groupId>
+            <artifactId>spring-jdbc-template</artifactId>
+            <version>0.2.1</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
